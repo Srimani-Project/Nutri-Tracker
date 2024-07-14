@@ -1,4 +1,4 @@
-   //Food's nutritional value 
+   //Calculation Food's nutritional value 
    const GRAINS = {
     "Oats, raw": {
         "Calories": 389,
